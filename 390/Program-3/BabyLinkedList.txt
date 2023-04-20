@@ -1,0 +1,1 @@
+Do the exercises in the chapter 6 section "Fundamental Exercises"  - 6.2.1 or so.  Explain your code in a paragraph or two, show the code, and show screenshots of it running.  Put all this into .pdf and submit it in moodle.  Due March 16.
